@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102525495/2c8c49e5-6b6f-474c-83b6-20d2d3a0429a.png" width="800" alt="Network Topology Banner"/>
+  <img width="535" height="399" alt="image" src="https://github.com/user-attachments/assets/2a394c8f-9d6a-47a2-bb47-e0558b32c8ee" />
 </p>
 
 <h1 align="center">OSPF Network Implementation with Cisco Packet Tracer</h1>
