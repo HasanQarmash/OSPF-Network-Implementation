@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="535" height="399" alt="image" src="https://github.com/user-attachments/assets/2a394c8f-9d6a-47a2-bb47-e0558b32c8ee" />
-</p>
 
 <h1 align="center">OSPF Network Implementation with Cisco Packet Tracer</h1>
 
@@ -14,6 +11,9 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Badge"/>
 </p>
 
+<p align="center">
+  <img width="535" height="399" alt="image" src="https://github.com/user-attachments/assets/2a394c8f-9d6a-47a2-bb47-e0558b32c8ee" />
+</p>
 ---
 
 ## 🚀 Overview
